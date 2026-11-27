@@ -19,3 +19,13 @@ Las librerías principales fueron Pandas, NumPy y Matplotlib.
 ## Resultados
 
 Según el análisis realizado no se identificó ninguna epidemia de importancia económica, además de que se pudieron correlacionar satisfactoriamente las variables atmosféricas de temperatura, precipitación y humedad relativa con la presencia de la roya en la planta para cada año y estado.
+
+#### Integrantes
+
+Juan Emilio Morales Perez \
+Emiliano Nolasco Cervantes \
+Victor Hugo Rueda Garcia \
+Tristán Balderas Galindo \
+Marco Antonio Casco Domínguez \
+Jesús Angel Canseco Rodriguez \
+Ángel Chavarria Orosco
